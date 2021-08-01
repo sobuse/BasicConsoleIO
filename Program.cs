@@ -15,7 +15,9 @@ namespace BasicConsoleIO
 
             // GetName.GetUserData();
             // Formati.FormatNumberData();
-            Obj.ObjectFunctionality();
+            // Obj.ObjectFunctionality();
+            // Functionality.DataTypeFunctionality();
+            CharFun.CharFunctionality();
         }
     }
 }
